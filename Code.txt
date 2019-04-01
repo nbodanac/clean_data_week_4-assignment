@@ -1,0 +1,5 @@
+Code
+
+activity: name of the activity measured.
+subject: identifier of the subject that performed the experiment.
+aditional columns: mean of the mean and standard deviation of the experiment.
