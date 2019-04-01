@@ -1,10 +1,4 @@
-# clean_data_week_4-assignment
-#please see attched two documents
-#codebook will contain details of all data within the dataframe 
-# the dataframe refers to assignemnt three, week four of the getting and cleaning data course in coursera using the UCI HAR dataset 
-
-#the below code will outline the transformations made to the original dataset
-#thanks for taking the time to review this and please give me feedback in whats I can improve it
+clean_data_week_4-assignment, please see the attached codebook which will contain details of all data within the dataframe.  The dataframe refers to assignemnt three, week four of the getting and cleaning data course in coursera using the UCI HAR dataset.  The below code will outline the transformations made to the original dataset.  Thanks for taking the time to review this and please give me feedback in whats I can improve it
 
 library(dplyr)
 filename <- "clean_data_week_4_project.zip"
